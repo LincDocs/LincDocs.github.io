@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://LincDocs.github.io/LincDocs.github.io/sitemap.xml
+Sitemap: https://LincDocs.github.io/sitemap.xml
