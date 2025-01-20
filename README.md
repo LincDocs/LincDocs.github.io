@@ -8,7 +8,7 @@
   - <a href="https://lincdocs.github.io/Pkmer-Math/">Pkmer-Math</a>
 - Product
   - <a href="https://lincdocs.github.io/Workflow/">Workflow</a>
-  - <a href="https://linczero.github.io/MdNote_Public/ProductDoc/AnyBlock/">AnyBlock</a>
+  - <a href="https://lincdocs.github.io/AnyBlock/">AnyBlock</a>
 - ComfyUI
   - <a href="https://lincdocs.github.io/ComfyUI-Workflows-Linc/">ComfyUI-Workflows-Linc</a>
   - <a href="https://lincdocs.github.io/ComfyUI_examples/">ComfyUI_examples</a>
