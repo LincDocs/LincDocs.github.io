@@ -6,6 +6,7 @@
   - <a href="https://lincdocs.github.io/MdNote_Public/">MdNote_Public</a>
   - <a href="https://lincdocs.github.io/obsidian-api-request/">obsidian-api-request</a>
   - <a href="https://lincdocs.github.io/Pkmer-Math/">Pkmer-Math</a>
+  - <a href="https://lincdocs.github.io/nonebot2/">nonebot2</a>
 - Product
   - <a href="https://lincdocs.github.io/Workflow/">Workflow</a>
   - <a href="https://lincdocs.github.io/AnyBlock/">AnyBlock</a>
