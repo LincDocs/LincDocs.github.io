@@ -1,6 +1,6 @@
 # LincDocs.github.io
 
-常用导航
+## 常用导航
 
 - Docs
   - <a href="https://lincdocs.github.io/MdNote_Public/">MdNote_Public</a>
@@ -22,7 +22,7 @@
 3. 所以我们选择手动 `<a>` 标签
 -->
 
-# LincDocs
+## LincDocs
 
 Include many of your own or third party documents, make it easy to manage them, and add site deployment services/proxy deployment services for them.
 
