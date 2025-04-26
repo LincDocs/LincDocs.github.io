@@ -28,6 +28,12 @@ Include many of your own or third party documents, make it easy to manage them, 
 
 包括许多自己的和第三方的文档，使他们易于管理，并为它们添加在线文档网站的部署服务
 
+# LincDocs
+
+Include many of your own or third party documents, make it easy to manage them, and add site deployment services/proxy deployment services for them.
+
+包括许多自己的和第三方的文档，使他们易于管理，并为它们添加在线文档网站的部署服务
+
 - [LincDocs](https://lincdocs.github.io/)
   - [MdNote_Public](https://github.com/LincDocs/MdNote_Public)
     - 内容: Linc的公开笔记
@@ -60,9 +66,34 @@ Include many of your own or third party documents, make it easy to manage them, 
     - 在线: https://lincdocs.github.io/rust-course/
     - 原库: https://github.com/sunface/rust-course
     - 在线: https://course.rs/
+  - [trpl-zh-cn](https://github.com/LincDocs/trpl-zh-cn) (代理)
+    - 内容: Rust 程序设计语言（2021 edition） 
+    - 在线: https://lincdocs.github.io/trpl-zh-cn/
+    - 原库: https://github.com/KaiserY/trpl-zh-cn
+    - 在线: kaisery.github.io/trpl-zh-cn/
+  - [rust-by-example-cn](https://github.com/LincDocs/rust-by-example-cn) (代理)
+    - 内容: Rust By Example 中文版(包含在线代码编辑器)
+    - 在线: https://lincdocs.github.io/rust-by-example-cn/
+    - 原库: https://github.com/rust-lang-cn/rust-by-example-cn
+    - 在线: rustwiki.org/zh-CN/rust-by-example
+  - [pdf](https://github.com/LincDocs/pdf) (实验)
+    - 内容: pdf书库 (实验)
+    - 在线: https://lincdocs.github.io/pdf/
   - ...
 - Other (同作者非该组织下的其他相关文档)
   - [LincZero.github.io](https://linczero.github.io/)
+  - [ComfyUI-Workflows-Linc](https://github.com/LincDocs/ComfyUI-Workflows-Linc)
+    - 内容: 我的 ComfyUI 学习工作流库
+    - 在线: https://lincdocs.github.io/ComfyUI-Workflows-Linc/
+  - [ComfyUI-Workflows-ZHO](https://linczero.github.io/MdNote_Other/ComfyUI-Workflows-ZHO/) (代理)
+    - 内容: 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+    - 在线: https://linczero.github.io/MdNote_Other/ComfyUI-Workflows-ZHO/
+    - 原库: https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
+  - [ComfyUI_examples](https://github.com/LincDocs/ComfyUI_examples) (代理)
+    - 内容: Examples of ComfyUI workflows
+    - 在线: https://linczero.github.io/MdNote_Other/ComfyUI_examples/
+    - 原库: https://github.com/comfyanonymous/ComfyUI_examples
+    - 在线: https://comfyanonymous.github.io/ComfyUI_examples/
   - [Kanata](https://linczero.github.io/MdNote_Public/01.%20DesignAndDevelop/Develop/04.%20Project/Type/Script/Kanata/) 中文翻译文档
     - 内容: 提高键盘的舒适度和可用性与先进的定制
     - 在线: https://linczero.github.io/MdNote_Public/01.%20DesignAndDevelop/Develop/04.%20Project/Type/Script/Kanata/
